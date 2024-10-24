@@ -315,6 +315,7 @@ header .right .signup a {
 }
 
 #spotlight .right .main-img {
+  width: 100%;
 }
 
 #spotlight .right .main-img img {
